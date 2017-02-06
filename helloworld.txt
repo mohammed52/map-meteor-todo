@@ -1,3 +1,0 @@
-Git-it Guide -> recommended by FCC:
-http://jlord.us/git-it/challenges/repository.html
---
